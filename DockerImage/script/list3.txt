@@ -1,0 +1,15 @@
+/ndn/edu/uaslp/home/coffee1
+/ndn/edu/uaslp/home/coffee2
+/ndn/edu/uaslp/home/coffee3
+/ndn/edu/uaslp/home/coffee4
+/ndn/edu/uaslp/home/coffee5
+/ndn/edu/uaslp/home/coffee6
+/ndn/edu/uaslp/home/coffee7
+/ndn/edu/uaslp/home/coffee8
+/ndn/edu/uaslp/home/coffee9
+/ndn/edu/uaslp/move/moving13
+/ndn/edu/uaslp/move/moving14
+/ndn/edu/uaslp/move/moving15
+/ndn/edu/uaslp/move/moving16
+/ndn/edu/uaslp/move/moving17
+/ndn/edu/uaslp/move/moving18

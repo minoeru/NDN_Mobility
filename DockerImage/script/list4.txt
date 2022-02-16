@@ -1,0 +1,15 @@
+/ndn/edu/uaslp/work/task1
+/ndn/edu/uaslp/work/task2
+/ndn/edu/uaslp/work/task3
+/ndn/edu/uaslp/work/task4
+/ndn/edu/uaslp/work/task5
+/ndn/edu/uaslp/work/task6
+/ndn/edu/uaslp/work/task7
+/ndn/edu/uaslp/work/task8
+/ndn/edu/uaslp/work/task9
+/ndn/edu/uaslp/move/moving19
+/ndn/edu/uaslp/move/moving20
+/ndn/edu/uaslp/move/moving21
+/ndn/edu/uaslp/move/moving22
+/ndn/edu/uaslp/move/moving23
+/ndn/edu/uaslp/move/moving24

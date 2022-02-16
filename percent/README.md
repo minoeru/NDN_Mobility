@@ -1,0 +1,26 @@
+- Execution
+    - Window1
+        - ./start.sh
+        - osascript 1-prepare.scpt
+    - Window2(after advertise)
+        - (advertise check)
+            - docker exec -it nlsr11 /bin/bash
+              - 15->16
+            - nlsrc status
+            - exit
+        - osascript 2-action_moving.scpt
+        - (terminate)
+            - ./stop.sh
+- Check Result
+    - Rscript readResult.R
+        - Count the number of nack from /pcap/result.txt
+    - Rscript makeCSV.R
+        - Convert /pcap/*.cap to *.csv
+    - Rscript make.R
+        - Parse *.csv
+    - Rscript margeSum.R
+        - Collect all sum data
+    - Rscript readResult.R
+        - Collect all result data
+    - Rscript /result/CheckAll.R
+        - Create all percentage Graph by sum and result

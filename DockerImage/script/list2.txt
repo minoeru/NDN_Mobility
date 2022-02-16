@@ -1,0 +1,15 @@
+/ndn/edu/uaslp/lab/blog1
+/ndn/edu/uaslp/lab/blog2
+/ndn/edu/uaslp/lab/blog3
+/ndn/edu/uaslp/lab/blog4
+/ndn/edu/uaslp/lab/blog5
+/ndn/edu/uaslp/lab/blog6
+/ndn/edu/uaslp/lab/blog7
+/ndn/edu/uaslp/lab/blog8
+/ndn/edu/uaslp/lab/blog9
+/ndn/edu/uaslp/move/moving07
+/ndn/edu/uaslp/move/moving08
+/ndn/edu/uaslp/move/moving09
+/ndn/edu/uaslp/move/moving10
+/ndn/edu/uaslp/move/moving11
+/ndn/edu/uaslp/move/moving12

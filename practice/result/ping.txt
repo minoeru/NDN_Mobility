@@ -1,0 +1,55 @@
+PING /ndn/edu/uaslp/home/coffee
+20210930T054356.634323 - nack from /ndn/edu/uaslp/home/coffee: seq=11230227194143297299 time=1.55604 ms reason=NoRoute
+20210930T054357.633734 - nack from /ndn/edu/uaslp/home/coffee: seq=11230227194143297300 time=0.843693 ms reason=NoRoute
+20210930T054358.636805 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297301 time=3.58388 ms
+20210930T054359.637517 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297302 time=3.84677 ms
+20210930T054400.638766 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297303 time=3.91091 ms
+20210930T054401.642290 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297304 time=3.88227 ms
+20210930T054402.644551 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297305 time=2.99817 ms
+20210930T054403.645338 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297306 time=3.13607 ms
+20210930T054404.646213 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297307 time=3.09724 ms
+20210930T054405.647028 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297308 time=3.4398 ms
+20210930T054406.647308 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297309 time=2.92202 ms
+20210930T054407.648263 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297310 time=3.20797 ms
+20210930T054408.648300 - nack from /ndn/edu/uaslp/home/coffee: seq=11230227194143297311 time=1.15888 ms reason=NoRoute
+20210930T054409.648783 - nack from /ndn/edu/uaslp/home/coffee: seq=11230227194143297312 time=1.02324 ms reason=NoRoute
+20210930T054410.655532 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297313 time=3.38729 ms
+20210930T054411.656428 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297314 time=3.37627 ms
+20210930T054412.662002 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297315 time=3.70935 ms
+20210930T054413.666397 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297316 time=3.80415 ms
+20210930T054414.666107 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297317 time=3.1166 ms
+20210930T054415.669056 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297318 time=3.05124 ms
+20210930T054416.669863 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297319 time=3.45875 ms
+20210930T054417.670305 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297320 time=2.93486 ms
+20210930T054418.671566 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297321 time=3.51151 ms
+20210930T054419.672201 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297322 time=3.73704 ms
+20210930T054420.675998 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297323 time=2.84343 ms
+20210930T054421.680758 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297324 time=2.76584 ms
+20210930T054422.685945 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297325 time=2.83724 ms
+20210930T054423.689034 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297326 time=2.96522 ms
+20210930T054424.689670 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297327 time=2.96127 ms
+20210930T054425.668281 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297328 time=3.33385 ms
+20210930T054426.669352 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297329 time=3.61179 ms
+20210930T054427.669848 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297330 time=3.28915 ms
+20210930T054428.675026 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297331 time=3.4775 ms
+20210930T054429.676049 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297332 time=3.51182 ms
+20210930T054430.676325 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297333 time=3.21907 ms
+20210930T054431.680772 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297334 time=3.45335 ms
+20210930T054432.680812 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297335 time=3.19385 ms
+20210930T054433.683529 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297336 time=2.94261 ms
+20210930T054434.684263 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297337 time=3.24358 ms
+20210930T054435.685064 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297338 time=3.25245 ms
+20210930T054436.687962 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297339 time=2.76842 ms
+20210930T054437.692914 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297340 time=2.95455 ms
+20210930T054438.693762 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297341 time=3.55779 ms
+20210930T054439.698166 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297342 time=2.64257 ms
+20210930T054440.702381 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297343 time=3.1973 ms
+20210930T054441.703220 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297344 time=2.99714 ms
+20210930T054442.704946 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297345 time=3.16556 ms
+20210930T054443.704984 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297346 time=2.96365 ms
+20210930T054444.709494 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297347 time=3.72332 ms
+20210930T054445.709442 - content from /ndn/edu/uaslp/home/coffee: seq=11230227194143297348 time=2.87134 ms
+
+--- /ndn/edu/uaslp/home/coffee ping statistics ---
+50 packets transmitted, 46 received, 4 nacked, 0% lost, 8% nacked, time 149.856 ms
+rtt min/avg/max/mdev = 2.64257/3.25774/3.91091/0.331192 ms

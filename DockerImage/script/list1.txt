@@ -1,0 +1,15 @@
+/ndn/edu/uaslp/univ/class1
+/ndn/edu/uaslp/univ/class2
+/ndn/edu/uaslp/univ/class3
+/ndn/edu/uaslp/univ/class4
+/ndn/edu/uaslp/univ/class5
+/ndn/edu/uaslp/univ/class6
+/ndn/edu/uaslp/univ/class7
+/ndn/edu/uaslp/univ/class8
+/ndn/edu/uaslp/univ/class9
+/ndn/edu/uaslp/move/moving01
+/ndn/edu/uaslp/move/moving02
+/ndn/edu/uaslp/move/moving03
+/ndn/edu/uaslp/move/moving04
+/ndn/edu/uaslp/move/moving05
+/ndn/edu/uaslp/move/moving06

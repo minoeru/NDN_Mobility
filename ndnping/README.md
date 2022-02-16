@@ -1,0 +1,15 @@
+- Execution
+    - Window1
+        - ./start.sh
+        - osascript nlsr_start.scpt
+    - Window2
+        - (one of these)
+            - osascript connectBeforeLeave.scpt
+            - osascript connectAfterLeave.scpt
+            - osascript simulateCache.scpt
+        - (terminate)
+            - ./stop.sh
+- Check Result
+    - Rscript view_result.R
+        - Write down the number of nack and content to each destination from ping.txt and sequence.txt to result.csv.
+        - Write down the maximum, minimum, and average values of nack packets in result.txt.

@@ -1,0 +1,13 @@
+,ip_address,router_name,state_dir,neighbors,advertise_content
+new_router1,172.17.0.2,/%C1.Router/router1,/var/lib/nlsr/new_router1,"172.17.0.3,172.17.0.4,172.17.0.9",
+new_router2,172.17.0.3,/%C1.Router/router2,/var/lib/nlsr/new_router2,"172.17.0.2,172.17.0.5,172.17.0.6",
+new_router3,172.17.0.4,/%C1.Router/router3,/var/lib/nlsr/new_router3,"172.17.0.2,172.17.0.7,172.17.0.8",
+new_router4,172.17.0.5,/%C1.Router/router4,/var/lib/nlsr/new_router4,"172.17.0.3,172.17.0.10",
+new_router5,172.17.0.6,/%C1.Router/router5,/var/lib/nlsr/new_router5,"172.17.0.3,172.17.0.11",
+new_router6,172.17.0.7,/%C1.Router/router6,/var/lib/nlsr/new_router6,"172.17.0.4,172.17.0.12",
+new_router7,172.17.0.8,/%C1.Router/router7,/var/lib/nlsr/new_router7,"172.17.0.4,172.17.0.13",
+new_pc,172.17.0.9,/%C1.Router/pc,/var/lib/nlsr/new_pc,172.17.0.2,
+new_server1,172.17.0.10,/%C1.Router/server1,/var/lib/nlsr/new_server1,172.17.0.5,/ndn/edu/uaslp/univ/class{1..9}
+new_server2,172.17.0.11,/%C1.Router/server2,/var/lib/nlsr/new_server2,172.17.0.6,/ndn/edu/uaslp/lab/blog{1..9}
+new_server3,172.17.0.12,/%C1.Router/server3,/var/lib/nlsr/new_server3,172.17.0.7,/ndn/edu/uaslp/home/coffee{1..9}
+new_server4,172.17.0.13,/%C1.Router/server4,/var/lib/nlsr/new_server4,172.17.0.8,/ndn/edu/uaslp/work/task{1..9}

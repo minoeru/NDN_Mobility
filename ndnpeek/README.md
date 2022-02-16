@@ -1,0 +1,21 @@
+- Execution
+    - Window1
+        - ./start.sh
+        - osascript 1-prepare.scpt
+    - Window2(after advertise)
+        - (advertise check)
+            - docker exec -it nlsr11 /bin/bash
+            - nlsrc status
+            - exit
+        - (one of these)
+            - osascript 2-action.scpt
+            - osascript 2-action_moving.scpt
+        - (terminate)
+            - ./stop.sh
+- Check Result
+    - Rscript readResult.R
+        - Count the number of nack from /pcap/result.txt
+    - Rscript makeCSV.R
+        - Convert /pcap/*.cap to *.csv
+    - Rscript make.R
+        - Parse *.csv
